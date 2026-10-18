@@ -55,9 +55,7 @@ The exact metrics and analysis depend on the source data and measures included i
 
 ## Video Demonstration
 
-The dashboard video is stored locally in `Dashboard video/`. You can upload the video to LinkedIn and link to the LinkedIn post here, or add a GitHub video file if it is within GitHub's file-size limits.
-
-- **Video demo:** Add your LinkedIn post URL here after publishing.
+[Watch or download the IPL dashboard demonstration](Dashboard%20video.mp4)
 
 ## How to Open the Dashboard
 
