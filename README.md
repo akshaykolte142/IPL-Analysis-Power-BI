@@ -51,13 +51,7 @@ The exact metrics and analysis depend on the source data and measures included i
 
 ## Dashboard Preview
 
-Screenshots are stored in the `Dashboard image/` folder. Once you upload the images to GitHub, you can display one here by replacing the example path with the exact image filename:
-
-```markdown
-![IPL Dashboard Preview](<Dashboard image/Dashboard image.png>)
-```
-
-For a cleaner GitHub preview, you may rename the folder to `images` and use a simple image path such as `images/dashboard-overview.png`.
+![IPL Analysis Dashboard](Dashboard%20image.png)
 
 ## Video Demonstration
 
