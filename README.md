@@ -75,7 +75,6 @@ The dashboard supports exploration of:
 - Bowling achievements, including Purple Cap statistics
 - Tournament-level KPIs and comparisons
 
-Add specific findings only after verifying the numbers against the report and source data.
 
 ## Key Learnings
 
@@ -86,7 +85,6 @@ This project can demonstrate skills in:
 - Designing season-based report filtering
 - Presenting sports data for exploratory analysis
 
-Edit this section so it accurately reflects the work and techniques you personally completed.
 
 ## Notes
 
