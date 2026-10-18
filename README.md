@@ -16,19 +16,17 @@ This project uses Microsoft Power BI to present IPL statistics in an interactive
 The local project folder is organised as follows:
 
 ```text
-IPL Analysis/
-├── Dashboard image/
-├── Dashboard video/
-├── IPL Data/
+IPL-Analysis-Power-BI/
+├── Dashboard image.png
+├── Dashboard video.mp4
 ├── IPL Analysis.pbix
 └── README.md
 ```
 
-- **`Dashboard image/`** — dashboard screenshots for previewing the report.
-- **`Dashboard video/`** — a video demonstration of the dashboard and its season filter.
-- **`IPL Data/`** — source data used by the project. Only share files you are permitted to publish.
+- **`Dashboard image.png`** — screenshot of the dashboard for previewing the report.
+- **`Dashboard video.mp4`** — video demonstration of the dashboard and its interactive season filter.
 - **`IPL Analysis.pbix`** — the Power BI report file.
-- **`README.md`** — project documentation.
+- **`README.md`** — project documentation, including the overview, key features, and instructions for opening the dashboard.
 
 ## Dashboard Features
 
@@ -44,6 +42,7 @@ The exact metrics and analysis depend on the source data and measures included i
 ## Tools and Skills
 
 - Microsoft Power BI
+- Power Query
 - DAX (Data Analysis Expressions), where implemented
 - Data visualisation and dashboard design
 - KPI reporting
@@ -61,10 +60,10 @@ The exact metrics and analysis depend on the source data and measures included i
 
 1. Download `IPL Analysis.pbix` from this repository.
 2. Open the file using Microsoft Power BI Desktop.
-3. If Power BI reports missing data or requests a data source, reconnect the required source files or update the data-source paths.
-4. Use the season filter and interact with the report visuals.
+3. If Power BI requests the original data source or reports missing data, reconnect the dataset on your local computer and update the data-source paths if necessary.
+4. Use the season filter and interact with the visuals to explore IPL statistics from 2008 to 2025.
 
-**Data privacy note:** The report may depend on files in `IPL Data/`. Do not upload private, restricted, or licensed source data. If the `.pbix` file contains embedded data, confirm that you have permission to share it before making the repository public.
+**Note:** The source dataset is not included in this repository. Dashboard functionality may depend on the data embedded in the `.pbix` file or the availability of the original data source.
 
 ## Analysis Areas
 
